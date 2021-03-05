@@ -2,9 +2,6 @@ body {
   background-color: #ffe227;
   font-family: 'Titillium Web', sans-serif;
 }
-* {
-  border: 1px solid red;
-}
 .navbar {
   background-color: #ffe227;
 }
