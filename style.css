@@ -19,6 +19,7 @@ body {
 .heroimg {
   margin-top: 0px;
   background-image: url('img/profil.jpg');
+  background-color: #1c1c1c;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
