@@ -1,13 +1,13 @@
 body {
-  background-color: #ffe920;
+  background-color: #edd81f;
 }
 .navbar {
-  background-color: #ffe920;
+  background-color: #edd81f;
 }
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #ffe920;
+  background-color: #edd81f;
 }
 .heroimg {
   margin-top: 0px;
@@ -46,7 +46,7 @@ section {
   font-weight: bold;
 }
 .gallery {
-  background-color: #ffe920;
+  background-color: #edd81f;
   padding: 80px 0;
 }
 .gallery img {
