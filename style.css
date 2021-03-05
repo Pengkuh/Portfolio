@@ -1,21 +1,28 @@
 body {
-  background-color: #edd81f;
+  background-color: #ffe227;
+  font-family: 'Titillium Web', sans-serif;
 }
 .navbar {
-  background-color: #edd81f;
+  background-color: #ffe227;
+}
+.nama h2 {
+  font-weight: bold;
 }
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #edd81f;
+  background-color: #ffe227;
 }
 .heroimg {
   margin-top: 0px;
-  background-image: url('img/foto1.png');
+  background-image: url('img/profil.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
-  height: 400px;
+  background-size: cover;
+  border-radius: 50%;
+  width: 370px;
+  height: 370px;
+  border-left: 5px solid #1c1c1c;
 }
 .hero {
   margin-top: 0px;
@@ -40,13 +47,14 @@ section {
   font-size: 1.2em;
   font-weight: lighter;
   letter-spacing: 1.7px;
+  opacity: 0.9;
 }
 .desk span {
   font-size: 1.4em;
   font-weight: bold;
 }
 .gallery {
-  background-color: #edd81f;
+  background-color: #ffe227;
   padding: 80px 0;
 }
 .gallery img {
@@ -63,6 +71,7 @@ section {
 }
 #contact {
   background-color: #1c1c1c;
+  padding-bottom: 30px;
 }
 footer {
   background-color: #0c0c0c;
